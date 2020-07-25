@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [leopard](https://leopardpan.cn) 是一个简洁的博客模板，响应式主题， 适配了电脑、手机各种屏幕，看效果直接点击下面链接
  
@@ -113,3 +114,7 @@
 #### 感谢   
 
 本博客在[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+=======
+# lxc4557355702.github.io
+my blog
+>>>>>>> 0293c8cc19c227d4cd2947a9732905941e8e3722
