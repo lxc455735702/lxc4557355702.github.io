@@ -20,24 +20,24 @@ comment:
 # Social
 social:
     weibo: 5366874726 
-    github: leopardpan
+    github: lxc455735702
     # zhihu: panpanleopard
-    # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    juejin: 5921df52570c350069b463d9
+    jianshu: 8bb382db8e3f
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 18867762063@163.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 8ba1c6be0953b6f9c2ba38e57f615421  
+# baidu:
+#     id: 8ba1c6be0953b6f9c2ba38e57f615421  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
-ga:
-    id: UA-84134159-3  
-    host: auto  
+# ga:
+#     id: UA-84134159-3  
+#     host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
