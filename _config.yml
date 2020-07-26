@@ -14,13 +14,13 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: false
+    # disqus: false
     # uyan: 2143225  # 有言id,登录有言官网申请
 
     gitalk: true
     gitalk_clientID: '0b86cb2f62dbc60a23e2'
     gitalk_Secret: 'e62f0d5fb90413e25b6fc7f389701d1185ab7f77'
-    gitalk_repo: 'lxc455735702.github.io/'
+    gitalk_repo: 'lxc455735702.github.io'
     gitalk_owner: 'lxc455735702'
     gitalk_admin: 'lxc455735702'
     distractionFreeMode: true
