@@ -19,6 +19,8 @@
 
     {% elsif site.comment.gitalk %}
     <script>
+
+        <div id="gitalk-container"></div>
         var gitalk = new Gitalk({
             clientID: '{{ site.comment.gitalk_clientID }}',
             clientSecret: '{{ site.comment.gitalk_Secret }}',
@@ -29,7 +31,7 @@
             distractionFreeMode: '{{ site.comment.distractionFreeMode }}'  // Facebook-like distraction free mode
         })
 
-        gitalk.render('disqus_thread')
+        gitalk.render('gitalk-container')
     </script>
 
     {% endif %}
