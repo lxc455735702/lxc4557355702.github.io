@@ -4,7 +4,7 @@ layout: default
 
 <head>
   <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
-  
+
 </head>
 
 <article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
@@ -32,6 +32,8 @@ layout: default
 
 {% include new-old.html %}
 
-{% include comments.html %}
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
+
+{% include comments.html %}
+
