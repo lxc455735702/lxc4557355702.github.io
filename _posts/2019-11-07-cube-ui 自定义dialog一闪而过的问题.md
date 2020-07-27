@@ -12,7 +12,7 @@ tag: vue
  某个页面点击某个div时弹出自定义的dialog，发现这个dialog 并没  有显示，有点奇怪。
  
 ![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy80ODMwNjY0LTE3Mjk5YWU0MzkwYjM5NjAuanBn?x-oss-process=image/format,png)
----
+
 # 问题排查
   一开始觉得有可能是dialog显示了被遮挡住了，所以看起来没有显示。然后修改z-index属性，发现还是一样的效果。
 看来问题没有这么简单，还是仔细的分析一下...
